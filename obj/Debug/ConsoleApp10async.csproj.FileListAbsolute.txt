@@ -1,0 +1,7 @@
+c:\users\devin\documents\visual studio 2017\Projects\ConsoleApp10async\ConsoleApp10async\bin\Debug\ConsoleApp10async.exe.config
+c:\users\devin\documents\visual studio 2017\Projects\ConsoleApp10async\ConsoleApp10async\bin\Debug\ConsoleApp10async.exe
+c:\users\devin\documents\visual studio 2017\Projects\ConsoleApp10async\ConsoleApp10async\bin\Debug\ConsoleApp10async.pdb
+c:\users\devin\documents\visual studio 2017\Projects\ConsoleApp10async\ConsoleApp10async\obj\Debug\ConsoleApp10async.csprojAssemblyReference.cache
+c:\users\devin\documents\visual studio 2017\Projects\ConsoleApp10async\ConsoleApp10async\obj\Debug\ConsoleApp10async.csproj.CoreCompileInputs.cache
+c:\users\devin\documents\visual studio 2017\Projects\ConsoleApp10async\ConsoleApp10async\obj\Debug\ConsoleApp10async.exe
+c:\users\devin\documents\visual studio 2017\Projects\ConsoleApp10async\ConsoleApp10async\obj\Debug\ConsoleApp10async.pdb
